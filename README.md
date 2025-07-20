@@ -1,7 +1,10 @@
 ## Ola, Me chamo Maike Developer sou apaixonado por programação e tecnologia!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+**Olá! Eu sou o Maike, desenvolvedor apaixonado por tecnologia desde os 12 anos de idade. Comecei minha jornada muito cedo, explorando o mundo da programação com curiosidade e dedicação.**
+*Atualmente, tenho 2 anos de experiência como desenvolvedor back-end, onde me especializei em criar sistemas robustos, APIs eficientes e lógica de negócio sólida.*
+*Há 1 ano, mergulhei no universo do front-end, desenvolvendo interfaces modernas, responsivas e focadas na melhor experiência do usuário.
+*Com isso, atuo como desenvolvedor full stack há 2 anos, unindo o melhor dos dois mundos para entregar soluções completas, do banco de dados à interface final.*
+*Estou sempre em busca de novos desafios, aprendizados e oportunidades para evoluir e contribuir com projetos incríveis!*
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
