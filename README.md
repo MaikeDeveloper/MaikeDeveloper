@@ -1,7 +1,7 @@
 ## Ola, Me chamo Maike Developer sou apaixonado por programação e tecnologia! 👑
 
 <p align="center">
-<em>Sou desenvolvedor full stack com 2 anos de experiência em back-end, criando APIs e sistemas sólidos🏆.</em><br>
+<em>Sou desenvolvedor full stack com 6 anos de experiência em back-end, criando APIs e sistemas sólidos🏆.</em><br>
 <em>Há 1 ano, expandi para o front-end, focando em interfaces modernas e responsivas🏅.</em><br>
 <em>Busco sempre evoluir, enfrentar novos desafios e contribuir com soluções completas e eficientes💎.</em>
 
