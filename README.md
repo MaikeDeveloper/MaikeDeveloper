@@ -40,7 +40,7 @@
 
 ## - Tech content creator
 - 📫 How to reach me suportemaikezera@gmail.com
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Works on my machine.
 - 🤝 I’m looking to collaborate with other content creators
 *I secretly make bugs and break shit to inflate our backlog and make sure my job is still needed*
 
