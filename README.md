@@ -18,7 +18,7 @@ Sou **Maike Developer**, um desenvolvedor web Fullstack que adora criar aplicati
 💬 Vamos nos conectar
 
 * Whatsapp : <a href="https://api.whatsapp.com/send/?phone=%2B5521967371806&text&type=phone_number&app_absent=0" target="_blank">Numero - Clique</a>
-* Email : <a href="maike:suportemaikezera@gmail.com?subject=Collaboration%20Request" target="_blank">Enviar e-mail</a>
+* Email : <a href="mailto:suportemaikezera@gmail.com?subject=Collaboration%20Request" target="_blank">Enviar e-mail</a>
 * GitHub : <a href="https://github.com/maikedeveloper" target="_blank">Visitar Perfil</a>
 * Discord : <a href="https://discord.com/users/856976602021494824r" target="_blank">Aqui!</a>
 
