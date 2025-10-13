@@ -1,294 +1,31 @@
-<div align="center">  
-  <a href="https://github.com/maikedeveloper">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=250&section=header&text=Oi!%20Eu%20sou%20o%20Maike%20Developer!&fontColor=FFFFFF&fontSize=40&fontAlignY=30&animation=fadeIn&desc=E%20você%20está%20no%20meu%20Github%20😃,%20seja%20muito%20bem-vindo(a)&descAlignY=50
-    "/>
-  </a>
-  <div align=left>
-  <h2>💡 Sobre Mim</h2>
-  <p style="font-weight:bold">👨‍💻 Sou Desenvolvedor Backend com mais de 4 anos de experiência em desenvolvimento de software e mais de 6 anos na área de desenvolvimento de servidores SAMP. Tenho paixão por construir soluções eficientes, escaláveis e confiáveis — com foco atual em engenharia backend e práticas de confiabilidade de banco de dados.</p>
-  <h2>🎯 SOBRE:</h2>
-</a>
-  </div>
-</div>
-<br clear="both">
+![Banner](assets/Banner.png)
+
+# ✨ Quem sou eu? 
+Sou **Maike Developer**, um desenvolvedor web Fullstack que adora criar aplicativos web incríveis. Programador e Desenvolvedor Pawno(SAMP) há 5anos.
+
+# 🚀 O que eu faço
+
+* 🔥 Fullstack web development (Frontend & Backend)
+* 🚀 Criando soluções inteligentes com código limpo e criativo
+* 🧠 5+ anos de experiência em desenvolvimento
+* 👥 Fundador da TeamProgramming — comunidade de programadores
+* 📈 Foco em automação, bots e sistemas eficientes
 
 
-🚀 <b>Projetos em Destaque:</b>  
-🔭 Atualmente trabalhando: **[TeamProgramming](#)**  
-🌱 Aprendendo: Alavancagem de IA
-📫 Entre em contato: **[LinkedIn](https://www.linkedin.com/in/maikedeveloper/)**  
-🔗 Veja mais sobre mim no meu **[Portfólio completo](https://maikedeveloper.netlify.app/)!**
+# 🛠️ Tecnologias & Ferramentas
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-🔹 Atualmente Trabalhando em home office  
-🔹 **[Team-Programming](#)** Retornaremos logo no Discord.  
+💬 Vamos nos conectar
 
-<br>
-<h2>📈 Contribuições no GitHub</h2>
-  <br>
-  <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph.svg">
-  </picture>
-  <br>
-  </div>
+* Whatsapp : <a href="https://api.whatsapp.com/send/?phone=%2B5521967371806&text&type=phone_number&app_absent=0" target="_blank">Numero - Clique</a>
+* Email : <a href="maike:suportemaikezera@gmail.com?subject=Collaboration%20Request" target="_blank">Enviar e-mail</a>
+* GitHub : <a href="https://github.com/maikedeveloper" target="_blank">Visitar Perfil</a>
+* Discord : <a href="https://discord.com/users/856976602021494824r" target="_blank">Aqui!</a>
 
-<div align="center">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+</picture>
 
-<h2>🛠️ Tecnologias & Ferramentas</h2>
-<div align="center">
-  <table style="width:100%">
-    <th colspan="8">Backend</th>
-    <tr align="center">
-        <td>
-            <a href="https://www.java.com/">
-                <img src="https://skillicons.dev/icons?i=java" width="50" title="Java" alt="Java"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://spring.io/">
-                <img src="https://skillicons.dev/icons?i=spring" width="50" title="Spring" alt="Spring"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://nodejs.org/">
-                <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js" alt="Node.js"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.postman.com/">
-                <img src="https://skillicons.dev/icons?i=postman" width="50" title="Postman" alt="Postman"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://redis.io/">
-                <img src="https://skillicons.dev/icons?i=redis" width="50" title="Redis" alt="Redis"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.elastic.co/">
-                <img src="https://skillicons.dev/icons?i=elasticsearch" width="50" title="elasticsearch" alt="elasticsearch"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://kafka.apache.org/">
-                <img src="https://skillicons.dev/icons?i=kafka" width="50" title="kafka" alt="kafka"/>
-            </a>
-        </td>
-    </tr>
-    <th colspan="8">Frontend</th>
-    <tr align="center">
-        <td>
-            <a href="https://nextjs.org/">
-                <img src="https://skillicons.dev/icons?i=next" width="50" title="Next.js" alt="Next.js"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://react.dev/">
-                <img src="https://skillicons.dev/icons?i=react" width="50" title="React" alt="React"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.typescriptlang.org/">
-                <img src="https://skillicons.dev/icons?i=typescript" width="50" title="TypeScript" alt="TypeScript"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://tailwindcss.com/">
-                <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS" alt="Tailwind CSS"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://jquery.com/">
-                <img src="https://skillicons.dev/icons?i=jquery" width="50" title="jQuery" alt="jQuery"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://jestjs.io/">
-                <img src="https://skillicons.dev/icons?i=jest" width="50" title="Jest" alt="Jest"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://angular.dev/">
-                <img src="https://skillicons.dev/icons?i=angular" width="50" title="Angular" alt="Angular"/>
-            </a>
-        </td>
-    </tr>
-    <th colspan="8">DevOps</td>
-    <tr align="center">
-        <td>
-            <a href="https://git-scm.com/">
-                <img src="https://skillicons.dev/icons?i=git" width="50" title="Git" alt="Git"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.docker.com/">
-                <img src="https://skillicons.dev/icons?i=docker" width="50" title="Docker" alt="Docker"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://kubernetes.io/">
-                <img src="https://skillicons.dev/icons?i=kubernetes" width="50" title="Kubernetes" alt="Kubernetes"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.ansible.com/">
-                <img src="https://skillicons.dev/icons?i=ansible" width="50" title="Ansible" alt="Ansible"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.terraform.io/">
-                <img src="https://skillicons.dev/icons?i=terraform" width="50" title="Terraform" alt="Terraform"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://prometheus.io/">
-                <img src="https://skillicons.dev/icons?i=prometheus" width="50" title="Prometheus" alt="Prometheus"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://grafana.com/">
-                <img src="https://skillicons.dev/icons?i=grafana" width="50" title="Grafana" alt="Grafana"/>
-            </a>
-        </td>
-    </tr>
-    <th colspan="8">SGBD</td>
-    <tr align="center">
-        <td>
-            <a>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.mysql.com/">
-                <img src="https://skillicons.dev/icons?i=mysql" width="50" title="MySQL" alt="MySQL"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.mongodb.com/">
-                <img src="https://skillicons.dev/icons?i=mongo" width="50" title="MongoDB" alt="MongoDB"/>
-            </a>
-        </td>
-        <td>
-            <a>
-            </a>
-        </td>
-        <td>
-            <a href="https://firebase.google.com/">
-                <img src="https://skillicons.dev/icons?i=firebase" width="50" title="Firebase" alt="Firebase"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.postgresql.org/">
-                <img src="https://skillicons.dev/icons?i=postgresql" width="50" title="PostgreSQL" alt="PostgreSQL"/>
-            </a>
-        </td>
-        <td>
-            <a>
-            </a>
-        </td>
-    </tr>
-    <th colspan="8">Tools</td>
-    <tr align="center">
-        <td>
-            <a href="https://code.visualstudio.com/">
-                <img src="https://skillicons.dev/icons?i=vscode" width="50" title="VSCode" alt="VSCode"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://developer.android.com/studio">
-                <img src="https://skillicons.dev/icons?i=androidstudio" width="50" title="Android Studio" alt="Android Studio"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.gnu.org/software/bash/">
-                <img src="https://skillicons.dev/icons?i=bash" width="50" title="Bash" alt="Bash"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.rabbitmq.com/">
-                <img src="https://skillicons.dev/icons?i=rabbitmq" width="50" title="RabbitMQ" alt="RabbitMQ"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://aws.amazon.com/">
-                <img src="https://skillicons.dev/icons?i=aws" width="50" title="AWS" alt="AWS"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://azure.microsoft.com/">
-                <img src="https://skillicons.dev/icons?i=azure" width="50" title="AWS" alt="AWS"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/">
-                <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub" alt="GitHub"/>
-            </a>
-        </td>
-    </tr>
-    <th colspan="8">SO</td>
-    <tr align="center">
-        <td>
-            <a>
-            </a>
-        </td>
-        <td>
-            <a>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.linux.org/">
-                <img src="https://skillicons.dev/icons?i=linux" width="50" title="Linux" alt="Linux"/>
-            </a>
-        </td>
-        <td>
-            <a>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.microsoft.com/windows">
-                <img src="https://skillicons.dev/icons?i=windows" width="50" title="Windows" alt="Windows"/>
-            </a>
-        </td>
-        <td>
-            <a>
-            </a>
-        </td>
-        <td>
-            <a>
-            </a>
-        </td>
-    </tr>
-  </table>
 
-  <a href="https://github.com/maikedeveloper">
-    <img src="https://komarev.com/ghpvc/?username=maikedeveloper&label=Profile%20views&color=9c28d4&style=flat" alt="maikedeveloper"/>
-  </a>
-  <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942">
-    <img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" />
-  </a>
-</div>
-
-<!-- CONEXÕES  -->
-<h2>📬 Conecte-se Comigo</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/maikedeveloper/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://wa.me/5521967371806?text=Olá!%20Deixe%20uma%20mensagem%20para%20o%20devZeny!">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="mailto:suportemaikezera@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://x.com/maikedeveloper">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/maikedeveloper/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://github.com/maikedeveloper">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
-  </a>
-</div>
