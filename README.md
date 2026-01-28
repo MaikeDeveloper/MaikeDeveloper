@@ -14,7 +14,7 @@
 * 👥 Fundador da TeamProgramming — comunidade de programadores
 * 📈 Foco em automação, bots e sistemas eficientes
 * 👨‍💻 Engenheiro de software há 2 anos.
-* 💻 Programador e Desenvolvedor de Sistemas SAMP (Pawmo)
+* 💻 Programador e Desenvolvedor de Sistemas SAMP (Pawn)
 * 🚧 Criador de TextDrawn/Mapper SAMP
 
 
