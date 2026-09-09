@@ -1,82 +1,307 @@
-![Banner](assets/Banner.png)
+<div align="center">
 
+<img src="assets/Banner.png" width="100%" alt="Maike Developer">
 
-# 👋 Olá, eu sou o **Maike Developer**
-🚀 Fundador da **TeamProgramming**, uma comunidade dedicada a conectar e inspirar desenvolvedores.  
-🧠 Apaixonado por tecnologia, automação e criação de bots inteligentes.  
-💻 Programador movido a café 🌎| if(café) { produtividade++; }
+<br>
 
-# 🚀 O que eu faço
+# 👨‍💻 Maike Developer
 
-* 🔥 Fullstack web development (Frontend & Backend)
-* 🚀 Criando soluções inteligentes com código limpo e criativo
-* 🧠 13+ anos de experiência em desenvolvimento
-* 👥 Fundador da TeamProgramming — comunidade de programadores
-* 📈 Foco em automação, bots e sistemas eficientes
-* 👨‍💻 Engenheiro de software há 2 anos.
-* 💻 Programador e Desenvolvedor de Sistemas SAMP (Pawn)
-* 🚧 Criador de TextDrawn/Mapper SAMP
+### `Full Stack Developer` · `Software Engineer` · `Automation` · `SA-MP`
 
+<br>
 
-# 🛠️ Tecnologias & Ferramentas
+<a href="https://github.com/MaikeDeveloper">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://maikedeveloper.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://discord.com/users/856976602021494824">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+</a>
+&nbsp;
+<a href="mailto:suportemaikezera@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-%2345D34A.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MaikeDeveloper&label=Profile%20Views&color=5865F2&style=flat-square" alt="Profile views">
+
+</div>
+
+---
+
+## 👋 Sobre mim
+
+```text
+Olá! Eu sou Maike Developer.
+
+Desenvolvedor apaixonado por tecnologia, automação e criação de sistemas.
+
+Meu foco é transformar ideias em produtos funcionais,
+escaláveis e bem estruturados através do código.
+```
+
+Atuo principalmente no desenvolvimento de **aplicações Full Stack, APIs,
+bots, automações, sistemas personalizados e projetos relacionados a SA-MP**.
+
+Também sou fundador da **TeamProgramming**, uma comunidade criada para
+conectar desenvolvedores, compartilhar conhecimento e incentivar novos
+projetos.
+
+> ☕ `while(alive) { code(); coffee(); }`
+
+---
+
+## ⚡ Especialidades
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full Stack
+
+Desenvolvimento de aplicações modernas, APIs, sistemas administrativos e plataformas web.
+
+</td>
+<td width="50%">
+
+### 🤖 Automação
+
+Bots, integrações, sistemas automatizados e soluções para otimizar processos.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 SA-MP / Pawn
+
+Desenvolvimento de sistemas, gamemodes, TextDraws, mapas e recursos personalizados.
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend
+
+APIs REST, autenticação, bancos de dados, integrações e arquitetura de sistemas.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,cs,php" alt="Languages">
+
+<br><br>
+
+### Frontend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend">
+
+<br><br>
+
+### Backend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend">
+
+<br><br>
+
+### Databases
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases">
+
+<br><br>
+
+### Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Tools">
+
+</div>
+
+---
+
+# 🎮 SA-MP Development
+
+Uma das áreas que fazem parte da minha trajetória como desenvolvedor.
+
+```text
+Pawn
+ ├── Gamemodes
+ ├── Sistemas
+ ├── TextDraws
+ ├── Interfaces
+ ├── Mapping
+ ├── Objetos
+ └── Integrações
+```
+
+Desenvolvimento de sistemas personalizados para servidores **SA-MP**,
+incluindo interfaces, mecânicas, automações e recursos para servidores.
+
+---
+
+# 🤖 Bots & Automação
+
+Grande parte dos meus projetos envolve automação e integração entre serviços.
+
+```text
+Discord
+   │
+   ├── Bots
+   ├── Sistemas de Tickets
+   ├── Economia
+   ├── Moderação
+   ├── APIs
+   └── Automação
+          │
+          ▼
+     Database
+          │
+          ├── MongoDB
+          ├── MySQL
+          └── PostgreSQL
+```
+
+---
+
+# 🏢 TeamProgramming
+
+<div align="center">
+
+### `TEAM PROGRAMMING`
+
+**Uma comunidade feita por desenvolvedores para desenvolvedores.**
+
+</div>
+
+A **TeamProgramming** nasceu com o objetivo de criar um espaço onde
+programadores possam:
+
+* 💬 Tirar dúvidas
+* 💻 Compartilhar códigos
+* 📚 Compartilhar conhecimento
+* 🚀 Divulgar projetos
+* 🤝 Encontrar outros desenvolvedores
+* 🧠 Aprender novas tecnologias
+* 🛠️ Criar e compartilhar ferramentas
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MaikeDeveloper&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikeDeveloper&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&locale=pt-br" alt="Top Languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MaikeDeveloper&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg"
+    alt="GitHub Contribution Snake">
 </picture>
 
-# 💬 Vamos nos conectar
+</div>
 
-<div>
-  <a href="https://github.com/maikedeveloper"><img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://discord.com/users/856976602021494824r"><img height="30em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=suportemaikezera@gmail.com">
-  <img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="https://api.whatsapp.com/send/?phone=5521967371806&text=Olá!%20Vim%20pelo%20seu%20GitHub." target="_blank">
-  <img height="30em" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  <a href="https://maikedeveloper.netlify.app/" target="_blank">
-  <img height="30em" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio">
+---
 
+# 🚀 Atualmente
 
-# 📊 Estatísticas
+<table>
+<tr>
+<td>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MaikeDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+```text
+🚀 Desenvolvendo novos sistemas
+🤖 Criando bots e automações
+🌐 Desenvolvendo aplicações Full Stack
+🎮 Trabalhando com SA-MP / Pawn
+🧠 Estudando novas tecnologias
+👥 Desenvolvendo a TeamProgramming
+```
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikeDeveloper&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+</td>
+</tr>
+</table>
 
-</p>
-</div> 
+---
+
+# 📫 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/MaikeDeveloper">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://maikedeveloper.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://discord.com/users/856976602021494824">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<a href="mailto:suportemaikezera@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+### 💻 `Code. Create. Automate. Repeat.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:7C3AED&height=120&section=footer">
+
+</div>
